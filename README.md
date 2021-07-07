@@ -1,4 +1,4 @@
-# Login_ElsieHQY
+# Login
 UI/UX Practices
 
 Login.png was designed in Adobe XD.<br>
